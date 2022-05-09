@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1584205420 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\main.cpp
+	<iostream>
+
+1652112620 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\cash.cpp
+	"Cash.h"
+
+1652112620 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\cash.h
+
+1652112606 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\check.cpp
+	"Check.h"
+
+1652112605 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\check.h
+
+1652112540 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\company.cpp
+	"Company.h"
+
+1652112540 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\company.h
+
+1652112634 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\credit.cpp
+	"Credit.h"
+
+1652112634 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\credit.h
+
+1652112504 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\customer.cpp
+	"Customer.h"
+
+1652112504 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\customer.h
+
+1652112487 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\customers.cpp
+	"Customers.h"
+
+1652112487 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\customers.h
+
+1652112571 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\order.cpp
+	"Order.h"
+
+1652112571 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\order.h
+
+1652112415 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\orderitem.cpp
+	"OrderItem.h"
+
+1652112414 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\orderitem.h
+
+1652112582 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\payment.cpp
+	"Payment.h"
+
+1652112582 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\payment.h
+
+1652112521 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\person.cpp
+	"Person.h"
+
+1652112521 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\person.h
+
+1652112390 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\product.cpp
+	"Product.h"
+
+1652112390 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\product.h
+
+1652111855 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\stock.cpp
+	"Stock.h"
+
+1652111855 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\stock.h
+
+1652112444 source:f:\aمحمد عصام\تاسكات الكلية\salesorderapp\src\transaction.cpp
+	"Transaction.h"
+
+1652112444 f:\aمحمد عصام\تاسكات الكلية\salesorderapp\include\transaction.h
+
